@@ -1,0 +1,24 @@
+2026-08-21 19:59:45,300 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2026-08-21 19:59:45,454 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-21 19:59:45,457 - db_helper - DEBUG - expenses fetched: [{'id': 52, 'expense_date': datetime.date(2024, 9, 30), 'amount': 1000.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 53, 'expense_date': datetime.date(2024, 9, 30), 'amount': 250.0, 'category': 'Food', 'notes': 'Groceries for the week'}, {'id': 54, 'expense_date': datetime.date(2024, 9, 30), 'amount': 40.0, 'category': 'Entertainment', 'notes': 'Cinema tickets'}, {'id': 55, 'expense_date': datetime.date(2024, 9, 30), 'amount': 100.0, 'category': 'Shopping', 'notes': 'Clothes'}, {'id': 56, 'expense_date': datetime.date(2024, 9, 30), 'amount': 20.0, 'category': 'Other', 'notes': 'Public transport'}]
+2026-08-22 06:30:05,135 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2026-08-22 06:30:05,430 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-22 06:30:05,495 - db_helper - DEBUG - expenses fetched: [{'id': 62, 'expense_date': datetime.date(2024, 8, 15), 'amount': 10.0, 'category': 'Shopping', 'notes': 'Bought potatoes'}]
+2026-08-22 06:30:05,503 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2026-08-22 06:30:05,530 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-22 06:30:05,533 - db_helper - DEBUG - expenses fetched: []
+2026-08-22 06:30:05,542 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
+2026-08-22 06:30:18,795 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2026-08-22 06:30:18,872 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-22 06:30:18,874 - db_helper - DEBUG - expenses fetched: [{'id': 62, 'expense_date': datetime.date(2024, 8, 15), 'amount': 10.0, 'category': 'Shopping', 'notes': 'Bought potatoes'}]
+2026-08-22 06:30:18,876 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2026-08-22 06:30:18,890 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-22 06:30:18,891 - db_helper - DEBUG - expenses fetched: []
+2026-08-22 06:30:18,895 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
+2026-08-22 06:42:37,201 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-08-22 06:42:37,259 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-22 06:42:37,262 - db_helper - DEBUG - expenses fetched: [{'id': 63, 'expense_date': datetime.date(2024, 8, 1), 'amount': 1227.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 64, 'expense_date': datetime.date(2024, 8, 1), 'amount': 300.0, 'category': 'Food', 'notes': 'Groceries for the week'}, {'id': 65, 'expense_date': datetime.date(2024, 8, 1), 'amount': 1200.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 66, 'expense_date': datetime.date(2024, 8, 1), 'amount': 300.0, 'category': 'Food', 'notes': 'Groceries for the week'}]
+2026-08-22 06:42:51,589 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-08-22 06:42:51,601 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
+2026-08-22 06:42:51,603 - db_helper - DEBUG - expenses fetched: [{'id': 63, 'expense_date': datetime.date(2024, 8, 1), 'amount': 1227.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 64, 'expense_date': datetime.date(2024, 8, 1), 'amount': 300.0, 'category': 'Food', 'notes': 'Groceries for the week'}, {'id': 65, 'expense_date': datetime.date(2024, 8, 1), 'amount': 1200.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 66, 'expense_date': datetime.date(2024, 8, 1), 'amount': 300.0, 'category': 'Food', 'notes': 'Groceries for the week'}]
+2026-08-22 06:42:53,724 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
