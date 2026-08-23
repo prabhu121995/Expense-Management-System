@@ -22,3 +22,17 @@
 2026-08-22 06:42:51,601 - db_helper - DEBUG - cursor is CMySQLCursorDict: (Nothing executed yet)
 2026-08-22 06:42:51,603 - db_helper - DEBUG - expenses fetched: [{'id': 63, 'expense_date': datetime.date(2024, 8, 1), 'amount': 1227.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 64, 'expense_date': datetime.date(2024, 8, 1), 'amount': 300.0, 'category': 'Food', 'notes': 'Groceries for the week'}, {'id': 65, 'expense_date': datetime.date(2024, 8, 1), 'amount': 1200.0, 'category': 'Rent', 'notes': 'Monthly rent payment'}, {'id': 66, 'expense_date': datetime.date(2024, 8, 1), 'amount': 300.0, 'category': 'Food', 'notes': 'Groceries for the week'}]
 2026-08-22 06:42:53,724 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-08-23 18:12:10,447 - db_helper - INFO - fetch_expense_summary called with start: 2026-08-23 end: 2026-08-23
+2026-08-23 18:12:23,854 - db_helper - INFO - fetch_expense_summary called with start: 2026-08-20 end: 2026-09-23
+2026-08-23 18:16:26,191 - db_helper - INFO - fetch_expense_summary called with start: 2026-08-23 end: 2026-08-23
+2026-08-23 18:16:38,199 - db_helper - INFO - fetch_expense_summary called with start: 2026-08-23 end: 2026-08-23
+2026-08-23 18:17:50,294 - db_helper - INFO - fetch_expense_summary called with start: 2025-08-23 end: 2026-08-23
+2026-08-23 18:17:57,885 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:19:31,666 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:19:41,697 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:19:59,100 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:20:54,514 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:25:29,849 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:26:21,030 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:26:37,779 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
+2026-08-23 18:41:42,696 - db_helper - INFO - fetch_expense_summary called with start: 2020-08-23 end: 2026-08-23
